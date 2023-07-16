@@ -5,41 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcba41a8-3100-4ab4-8c49-21de5f7856b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecercisesSDA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecercise24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise199/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise199/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise199/Poem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/Vegetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/VegetableDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/VegetableType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatcherCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ecercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise777.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,11 +127,24 @@
       <workItem from="1689017550153" duration="885000" />
       <workItem from="1689340920802" duration="1759000" />
       <workItem from="1689403843305" duration="18627000" />
+      <workItem from="1689491370383" duration="1099000" />
     </task>
+    <task id="LOCAL-00001" summary="SDA CWICZENIA">
+      <created>1689491532402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689491532402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SDA CWICZENIA" />
+    <option name="LAST_COMMIT_MESSAGE" value="SDA CWICZENIA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
